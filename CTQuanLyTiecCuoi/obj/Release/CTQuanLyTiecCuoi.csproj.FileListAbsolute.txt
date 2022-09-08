@@ -1,0 +1,48 @@
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Release\CTQuanLyTiecCuoi.exe.config
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Release\CTQuanLyTiecCuoi.exe
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Release\CTQuanLyTiecCuoi.pdb
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.Form1.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmCapNhatCa.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmCapNhatDichVu.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmCapNhatLoaiSanh.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmCapNhatMonAn.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmDanhSachHoaDon.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmDanhSachTiec.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmDatTiec.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmHoaDon.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmLapBaoCao.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmMain.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmThemsanh.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.Properties.Resources.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.csproj.GenerateResource.cache
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.csproj.CoreCompileInputs.cache
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.exe
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.pdb
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.csprojAssemblyReference.cache
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmDangNhap.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmUser.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Release\CTQuanLyTiecCuoi.exe.config
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Release\CTQuanLyTiecCuoi.exe
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Release\CTQuanLyTiecCuoi.pdb
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.csprojAssemblyReference.cache
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.Form1.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmCapNhatCa.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmCapNhatDichVu.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmCapNhatLoaiSanh.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmCapNhatMonAn.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmDangNhap.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmDanhSachHoaDon.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmDanhSachTiec.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmDatTiec.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmHoaDon.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmLapBaoCao.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmMain.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmThemsanh.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.frmUser.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.Properties.Resources.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.csproj.GenerateResource.cache
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.csproj.CoreCompileInputs.cache
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.exe
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Release\CTQuanLyTiecCuoi.pdb
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Release\QUANLYTIECCUOI.mdf
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Release\QUANLYTIECCUOI_log.ldf

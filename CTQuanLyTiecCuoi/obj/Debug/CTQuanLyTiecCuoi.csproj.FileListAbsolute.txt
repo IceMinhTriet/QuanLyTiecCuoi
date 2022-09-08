@@ -1,0 +1,145 @@
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\CTQuanLyTiecCuoi.exe.config
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\CTQuanLyTiecCuoi.exe
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\CTQuanLyTiecCuoi.pdb
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Form1.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Properties.Resources.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.csproj.GenerateResource.cache
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.csproj.CoreCompileInputs.cache
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.exe
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.pdb
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmThemsanh.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmDatTiec.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmDanhSachTiec.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmHoaDon.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmDanhSachHoaDon.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmLapBaoCao.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmCapNhatLoaiSanh.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmCapNhatCa.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmCapNhatMonAn.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmCapNhatDichVu.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmMain.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmDangNhap.resources
+E:\hoctap\CSharp\practice\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmUser.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\CTQuanLyTiecCuoi.exe.config
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\CTQuanLyTiecCuoi.exe
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\CTQuanLyTiecCuoi.pdb
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Form1.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmCapNhatCa.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmCapNhatDichVu.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmCapNhatLoaiSanh.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmCapNhatMonAn.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmDangNhap.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmDanhSachHoaDon.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmDanhSachTiec.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmDatTiec.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmHoaDon.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmLapBaoCao.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmMain.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmThemsanh.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmUser.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Properties.Resources.resources
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.csproj.GenerateResource.cache
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.csproj.CoreCompileInputs.cache
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.exe
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.pdb
+C:\Users\Duong Thanh Hung\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.csprojAssemblyReference.cache
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\CTQuanLyTiecCuoi.exe.config
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\CTQuanLyTiecCuoi.exe
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\CTQuanLyTiecCuoi.pdb
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Properties.Resources.resources
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.csproj.GenerateResource.cache
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.exe
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.pdb
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\CTQuanLyTiecCuoi.exe.config
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\CTQuanLyTiecCuoi.exe
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\CTQuanLyTiecCuoi.pdb
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Form1.resources
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmCapNhatCa.resources
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmCapNhatDichVu.resources
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmCapNhatLoaiSanh.resources
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmCapNhatMonAn.resources
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmDangNhap.resources
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmDanhSachHoaDon.resources
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmDanhSachTiec.resources
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmDatTiec.resources
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmHoaDon.resources
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmLapBaoCao.resources
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmMain.resources
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmThemsanh.resources
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmUser.resources
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Properties.Resources.resources
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.exe
+C:\Users\Admin\Desktop\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.pdb
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\CTQuanLyTiecCuoi.exe.config
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\CTQuanLyTiecCuoi.exe
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\CTQuanLyTiecCuoi.pdb
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.csproj.AssemblyReference.cache
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Form1.resources
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmCapNhatCa.resources
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmCapNhatDichVu.resources
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmCapNhatLoaiSanh.resources
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmCapNhatMonAn.resources
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmDangNhap.resources
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmDanhSachHoaDon.resources
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmDanhSachTiec.resources
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmDatTiec.resources
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmHoaDon.resources
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmLapBaoCao.resources
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmMain.resources
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmThemsanh.resources
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.frmUser.resources
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Properties.Resources.resources
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.csproj.GenerateResource.cache
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.exe
+C:\Users\hoang\Downloads\QuanLiTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.pdb
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\CTQuanLyTiecCuoi.exe.config
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\CTQuanLyTiecCuoi.exe
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\CTQuanLyTiecCuoi.pdb
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.csproj.AssemblyReference.cache
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Properties.Resources.resources
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.csproj.GenerateResource.cache
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.csproj.CoreCompileInputs.cache
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.exe
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.pdb
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmDangKy.resources
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmDangNhap.resources
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\App_Data\QLTiecCuoi.mdf
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\App_Data\QLTiecCuoi_log.ldf
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\EntityFramework.dll
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\EntityFramework.xml
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmCapNhatSanh.resources
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmCapNhatDichVu.resources
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmCapNhatLoaiSanh.resources
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmCapNhatMonAn.resources
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmDanhSachTiec.resources
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmDatTiec.resources
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmHoaDon.resources
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmMain.resources
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmThemSanh.resources
+C:\Users\nhath\OneDrive\Desktop\classes\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.csproj.CopyComplete
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.csprojResolveAssemblyReference.cache
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmCapNhatSanh.resources
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmCapNhatDichVu.resources
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmCapNhatLoaiSanh.resources
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmCapNhatMonAn.resources
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmDangKy.resources
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmDangNhap.resources
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmDanhSachTiec.resources
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmDatTiec.resources
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmHoaDon.resources
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmMain.resources
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\obj\Debug\CTQuanLyTiecCuoi.Views.frmThemSanh.resources
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\App_Data\QLTiecCuoi.mdf
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\App_Data\QLTiecCuoi_log.ldf
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\EntityFramework.dll
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\EntityFramework.SqlServer.dll
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\EntityFramework.xml
+E:\CTQuanLyTiecCuoi\CTQuanLyTiecCuoi\bin\Debug\EntityFramework.SqlServer.xml
